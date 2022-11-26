@@ -1,0 +1,21 @@
+* {
+box-sizing: border-box;
+}
+
+.container {
+  width: 80%;
+  margin: 20px;
+  display: flex;
+  justify-content: space-between;
+}
+.container span {
+  background-color: grey;
+  padding: 10px;
+  border-radius: 5px;
+  text-align: center;
+}
+
+a {
+  all: unset;
+  cursor: pointer;
+}
